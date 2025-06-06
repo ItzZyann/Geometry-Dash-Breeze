@@ -37,7 +37,7 @@ Based on my testing:
 | Android 11       | Yes     |
 | Android 12       | Yes     |
 | Android 13       | Yes     |
-| Android 14       | No      |
+| Android 14       | Yes     |
 | Android 15       | No      |
 | Android 16       | No      |
 
@@ -65,4 +65,4 @@ To fix this:
 
 ## Download
 
-**[Download Geometry Dash Breeze v1.3.0 (APK)](https://github.com/ItzZyann/Geometry-Dash-Breeze/releases/download/v1.3.0/GeometryDashBreeze_1.3.0.apk)**
+**[Download Geometry Dash Breeze v1.3.1 (APK)](https://github.com/ItzZyann/Geometry-Dash-Breeze/releases/download/v1.3.1/GeometryDashBreeze_v1.3.1.apk)**
